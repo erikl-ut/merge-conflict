@@ -1,3 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Meie+Script&display=swap');
+
 * {
     font-family: 'Times New Roman', Times, serif;
+         .info {
+            display: flex;
+            justify-content: space-between;
+            width: 200px;
+        }
+
+        .pildid {
+            width: 400px;
+            height: 300px;
+            object-fit: cover;
+        }
+
+        h1 {
+            font-family: 'Meie Script', cursive;
+            font-size: 40px;
+        }
 }
+
+       
