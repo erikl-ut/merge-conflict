@@ -1,4 +1,4 @@
 See ei ole conflict.txt
+See on conflict.txt esmane versioon harus erik
 Loodan, et selle faili haldamisel segadusi ei teki
 -Tudeng nr 1
-
