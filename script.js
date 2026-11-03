@@ -1,6 +1,9 @@
 
 let slideIndex = 1;
-showDivs(slideIndex);
+
+addEventListener("DOMContentLoaded", (event) => {
+    showDivs(slideIndex);
+})
 
 function plusDivs(n) {
     showDivs(slideIndex += n);
